@@ -3,7 +3,7 @@
 ========================
 Run
 ========================
-git clone https:\\github.com/radik097/Math-server
+git clone https://github.com/radik097/Math-server
 ========================
 pip install Flask
 ========================
